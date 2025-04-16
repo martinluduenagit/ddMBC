@@ -2,7 +2,7 @@
 
 Supplementary material for the ddMBC paper on Protein Science
 
-ref: doi_to_be_assigned
+doi: 10.1002/pro.70134
  
 ## ESM-IF directory ##
 
